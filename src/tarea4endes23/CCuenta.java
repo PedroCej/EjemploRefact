@@ -4,7 +4,7 @@
  */
 
 package tarea4endes23;
-
+//Esto es un cambio de la version 1.2
 
 public class CCuenta {
 
