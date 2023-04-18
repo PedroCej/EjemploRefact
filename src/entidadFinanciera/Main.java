@@ -7,7 +7,7 @@ package entidadFinanciera;
 
 
 public class Main {
-//
+
     public static void main(String[] args) {
         CCuenta objetoCuenta;
         double saldoActual;
